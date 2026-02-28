@@ -1,6 +1,8 @@
 # Easy-Roblox-Bruteforcer
 No extra bullshit, just download and run!
 
+works best on microsoft
+
 If you havent already you need to disable your antivirus, if you dont microsoft will flag it obviously since what you are doing isn't allowed. if you did that then just download the raw file and run it.
 
 Fill in the username of  the user and it will bruteforce the password.
